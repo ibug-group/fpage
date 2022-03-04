@@ -1,4 +1,6 @@
 # FP-Age: Leveraging Face Parsing Attention for Facial Age Estimation in the Wild
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fp-age-leveraging-face-parsing-attention-for/age-estimation-on-kanface)](https://paperswithcode.com/sota/age-estimation-on-kanface?p=fp-age-leveraging-face-parsing-attention-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fp-age-leveraging-face-parsing-attention-for/age-estimation-on-imdb-clean)](https://paperswithcode.com/sota/age-estimation-on-imdb-clean?p=fp-age-leveraging-face-parsing-attention-for)
 
 Official repo for our paper *FP-Age: Leveraging Face Parsing Attention for Facial Age Estimation in the Wild*,
 accepted by IEEE Transactions on Image Processing (TIP). For IMDB-Clean, please visit <https://github.com/yiminglin-ai/imdb-clean>.
