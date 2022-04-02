@@ -30,8 +30,8 @@ pip install -e .
 
 Download the pretrained weights and unzip them in `ibug/age_estimation/weights/`
 
-* weights for FP-Age: <https://ibug.doc.ic.ac.uk/media/uploads/public/fpage/fpage-resnet50-fcn-14-97.torch>
-* weights for baselines: <https://ibug.doc.ic.ac.uk/media/uploads/public/fpage/baselines.zip>
+* weights for FP-Age: <https://ibug.doc.ic.ac.uk/download/fpage/fpage-resnet50-fcn-14-97.torch>
+* weights for baselines: <https://ibug.doc.ic.ac.uk/download/fpage/baselines.zip>
 
 ## How to run the demo
 
